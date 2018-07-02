@@ -419,7 +419,7 @@ echo'
 </a></div>
 </font>
 </div></div>
-<a href="https://www.facebook.com/OLdISDISABLE" alt="Owner" target="_blank"> <img src="baig.jpg" alt="Profile" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="250" height="250"></a></div>
+<a href="https://www.facebook.com/mrdjayash" alt="Owner" target="_blank"> <img src="baig.jpg" alt="Profile" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="250" height="250"></a></div>
 <br>
 </div>
 
@@ -430,7 +430,7 @@ echo'
 <center>
 <br>
 <br>
-<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:yellow; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"width="250" height="250"><a href="http://scure-token.tk" target="blank"><input class="button button5" type="button" value="GET TOKEN"></a></font></center></a></li>
+<center><div style="font-family: Iceland;<font face="Orbitron" size="10" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:yellow; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em gold;"width="250" height="250"><a href="http://bottersking.com/token/" target="blank"><input class="button button5" type="button" value="GET TOKEN"></a></font></center></a></li>
 
 ';
 }
