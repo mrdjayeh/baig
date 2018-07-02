@@ -302,7 +302,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='🏡 Sit3: DUZ-DUZ, TK 🏡 ';
+$site='🏡 Sit3: Top-Botter,TK 🏡 ';
 $true=$ops.'
 🏡 '.$eps.'
 🏡 '.$ups.'
